@@ -36,7 +36,7 @@ You can get started in the web app in this repository by the following procedure
 3.  Turn a python script into a web app by Streamlit
 
     ```bash
-    streamlit run pca_on_streamlit.py --server.port 8888
+    streamlit run plot3d_on_streamlit.py --server.port 8888
     ```
 
     Note that, by "--server.port 8888", we can access a web app from a web browser with the URL "localhost:8888".
